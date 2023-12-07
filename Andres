@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madre</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        h1 {
+            color: #FF4081;
+        }
+        p {
+            color: #333;
+            font-size: 18px;
+        }
+        img {
+            width: 300px;
+            border-radius: 50%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Quiero decirte hoy</h1>
+    <p>Madre</p>
+    <p>Te amo mucho. Gracias por tu amor incondicional, tu apoyo constante, Aunque aveces peleamos sabes que eres de las personas mas importantes para mi.</p>
+    <img "IMG_20231207_114833.jpg" alt="Nosotros">
+    <p>Con mucho cariño,</p>
+    <p>Tu hijo [Andres]</p>
+</body>
+</html>
